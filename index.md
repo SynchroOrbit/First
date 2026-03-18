@@ -5,7 +5,7 @@
 ---
 
 ### 第一步：进入学校官网
-打开浏览器，进入郑州工业应用技术学院官网：[https://zzuit.edu.cn](https://www.zzuit.edu.cn)
+打开浏览器，进入郑州工业应用技术学院官网：[https://www.zzuit.edu.cn](https://www.zzuit.edu.cn/)
 
 ![第一步：打开学校官网](8563c01e4730c4e81b683d5d21aa6fd.png)
 
