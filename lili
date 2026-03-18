@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>郑州工业应用技术学院——知网异地登录教程</title>
+    <style>
+        body { font-family: -apple-system, system-ui, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif; line-height: 1.6; color: #333; max-width: 800px; margin: 0 auto; padding: 20px; background-color: #f4f7f9; }
+        h1 { color: #0056b3; text-align: center; border-bottom: 2px solid #0056b3; padding-bottom: 10px; }
+        h3 { color: #444; margin-top: 30px; background: #e7eff6; padding: 10px; border-left: 5px solid #0056b3; }
+        p { margin: 10px 0; }
+        img { max-width: 100%; height: auto; display: block; margin: 20px auto; border: 1px solid #ddd; border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1); }
+        .footer { text-align: center; margin-top: 50px; color: #888; font-size: 0.9em; border-top: 1px solid #eee; padding-top: 20px; }
+        .step-info { background: #fff; padding: 15px; border-radius: 8px; box-shadow: inset 0 0 5px rgba(0,0,0,0.05); }
+        a { color: #0056b3; text-decoration: none; font-weight: bold; }
+        .multi-img { display: flex; justify-content: space-between; flex-wrap: wrap; }
+        .multi-img img { width: 48%; margin: 10px 1%; }
+    </style>
+</head>
+<body>
+
+    <h1>郑州工业应用技术学院<br>异地登录中国知网 (CNKI) 教程</h1>
+    
+    <p style="text-align: center; color: #666;">本教程旨在帮助同学们在校外快速访问知网数据库。</p>
+
+    <h3>第一步：进入学校官网</h3>
+    <div class="step-info">
+        打开浏览器，进入郑州工业应用技术学院官网：<a href="https://www.zzuit.edu.cn" target="_blank">www.zzuit.edu.cn</a>
+    </div>
+    <img src="8563c01e4730c4e81b683d5d21aa6fd.png" alt="进入官网">
+
+    <h3>第二步：打开图书馆藏</h3>
+    <div class="step-info">
+        在官网首页右上角，找到并点击 <strong>“图书馆藏”</strong>。
+    </div>
+    <img src="0fb0a0f0297d78935ebeae93cd0906c.png" alt="打开图书馆">
+
+    <h3>第三步：登录馆藏数据库</h3>
+    <div class="step-info">
+        点击导航栏的 <strong>“馆藏数据库”</strong>，在弹出页面输入：<br>
+        • <strong>账号</strong>：手机号/学号<br>
+        • <strong>密码</strong>：身份证后六位
+    </div>
+    <div class="multi-img">
+        <img src="0c336e99e07eeef2f7138cc8203ded5.png" alt="馆藏数据库按钮">
+        <img src="ae3b14dfacc551aec2912303325c174.png" alt="登录页面">
+    </div>
+
+    <h3>第四步：进入中国知网</h3>
+    <div class="step-info">
+        登录成功后，在列表中点击 <strong>“中国知网（包库）”</strong>。
+    </div>
+    <img src="baeed884c1c99f4b0df84d3d99c07e2.png" alt="选择知网">
+
+    <h3>第五步：访问成功</h3>
+    <div class="step-info">
+        确认右上角显示学校名称，即可开始下载文献。
+    </div>
+    <img src="816d897609dcc348f64e827cb214c82.jpg" alt="访问成功">
+
+    <div class="footer">
+        <p>教程制作：Lǐ Jīnqìng | 仅供学习参考</p>
+        <p>如果对你有帮助，请给 GitHub 项目点个 Star！⭐</p>
+    </div>
+
+</body>
+</html>
